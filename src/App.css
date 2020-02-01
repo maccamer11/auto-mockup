@@ -145,6 +145,8 @@ width: 100%;
 .btn-custom {
   background-color: rgb(190, 17, 17) !important;
   color: white !important;
+  text-align: center;
+  align-content: center;
 }
 
 .btn-custom:hover{
