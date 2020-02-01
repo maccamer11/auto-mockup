@@ -12,16 +12,19 @@ import Footer from './components/footer.component';
 
 
 function App() {
+  alert('this is just a mockup, it is not intended to be a complete website, with all functionality or content')
   return (
     <div className="App">
-      <span><NavBar /></span>
-      <Showcase />
-      <Boxes />
-      <Breaker />
-      <Quote />
-      <Products />
-      <Contact />
-      <Footer />
+      <div className='container-fluid'>
+        <span><NavBar /></span>
+        <Showcase />
+        <Boxes />
+        <Breaker />
+        <Quote />
+        <Products />
+        <Contact />
+        <Footer />
+      </div>
     </div>
   );
 }

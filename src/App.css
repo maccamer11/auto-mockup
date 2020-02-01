@@ -52,6 +52,7 @@ font-family: 'Varela Round', sans-serif;
 .nav-icon{
   margin-left: 10px;
   margin-right: 15px;
+  cursor: pointer;
 }
 
 #breaker{
@@ -61,6 +62,9 @@ font-family: 'Varela Round', sans-serif;
   background-attachment: fixed;
   text-align: center;
   color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: auto;
 }
 
  .dark-overlay{
@@ -73,11 +77,10 @@ font-family: 'Varela Round', sans-serif;
 } 
 
 #showcase {
-  position: relative;
   background: url("./assets/img2.jpg");
-  background-size: 100%;
-  height: 100%; 
+  background-size: cover;
   background-repeat: no-repeat;
+  height: auto;
 }
    /* #showcase .primary-overlay {
     background: rgba(0, 0, 0, 0.4);
@@ -161,3 +164,58 @@ width: 100%;
   padding-bottom: 15px;
   
 }
+
+/* .image-wrap {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+.banner-content {
+  position: absolute;
+  z-index: 99999;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  text-align: center;
+  font-size: 1.5em;
+  line-height: 1.5;
+}
+
+.img-content img {
+  width: 100%;
+  height: 100vh;
+  display: block;
+} */
+
+/* .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #530473;
+  opacity: .8;
+  z-index: 999;
+  height: 100%;
+}
+
+.ban-btn {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+.btn-red {
+  background-color: red;
+}
+
+.btn-green {
+  background-color: #4CAF50;
+} */
