@@ -19,6 +19,10 @@
   background-color:#060a0a;
 }
 
+#color-it{
+  color: rgb(160, 15, 15);
+}
+
 .making-room {
   /* border-bottom: rgb(190, 17, 17) solid 1px; */
 }
@@ -81,16 +85,24 @@ font-family: 'Varela Round', sans-serif;
   height: 100%; 
   position: relative;} */ 
 
+
+.card-image{
+height: 100%;
+width: 100%;
+}
+
+.card-body:hover{
+  
+ 
+}
+
 .info-header {
-  width: 50%;
+
   margin: auto;
   border-bottom: 1px #ddd solid; }
 
-#authors img {
-  margin-top: -50px; }
-#authors .card:hover {
-  background: #3292a6;
-  color: #fff; }
+
+
 #authors .fab {
   color: #fff; }
 
@@ -119,4 +131,32 @@ font-family: 'Varela Round', sans-serif;
 
 .whitespace{
   padding-top: 85px;
+}
+
+#contact {
+  margin: auto;
+  text-align: center;
+}
+
+.btn-custom {
+  background-color: rgb(190, 17, 17) !important;
+  color: white !important;
+}
+
+.btn-custom:hover{
+  background-color: rgb(160, 15, 15) !important;
+}
+
+.bg-custom {
+  background-color:#060a0a;
+}
+
+#banner-button{
+  padding-top: 30px !important;
+  margin-top: 30px !important;
+}
+
+.make-room{
+  padding-bottom: 15px;
+  
 }
