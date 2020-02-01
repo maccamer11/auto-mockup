@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/auto-mockup/static/css/main.dfeea9da.chunk.css",
-    "main.js": "/auto-mockup/static/js/main.ea975f8e.chunk.js",
-    "main.js.map": "/auto-mockup/static/js/main.ea975f8e.chunk.js.map",
+    "main.css": "/auto-mockup/static/css/main.d6fad067.chunk.css",
+    "main.js": "/auto-mockup/static/js/main.4b859830.chunk.js",
+    "main.js.map": "/auto-mockup/static/js/main.4b859830.chunk.js.map",
     "runtime-main.js": "/auto-mockup/static/js/runtime-main.8c5f8936.js",
     "runtime-main.js.map": "/auto-mockup/static/js/runtime-main.8c5f8936.js.map",
     "static/css/2.47e06e2e.chunk.css": "/auto-mockup/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.ffc0389e.chunk.js": "/auto-mockup/static/js/2.ffc0389e.chunk.js",
-    "static/js/2.ffc0389e.chunk.js.map": "/auto-mockup/static/js/2.ffc0389e.chunk.js.map",
+    "static/js/2.f1132c8a.chunk.js": "/auto-mockup/static/js/2.f1132c8a.chunk.js",
+    "static/js/2.f1132c8a.chunk.js.map": "/auto-mockup/static/js/2.f1132c8a.chunk.js.map",
     "index.html": "/auto-mockup/index.html",
-    "precache-manifest.b77a87b190d484680f88f2f01395d36b.js": "/auto-mockup/precache-manifest.b77a87b190d484680f88f2f01395d36b.js",
+    "precache-manifest.eb4128231e2a6c65e4e915194d325d17.js": "/auto-mockup/precache-manifest.eb4128231e2a6c65e4e915194d325d17.js",
     "service-worker.js": "/auto-mockup/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/auto-mockup/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.dfeea9da.chunk.css.map": "/auto-mockup/static/css/main.dfeea9da.chunk.css.map",
-    "static/js/2.ffc0389e.chunk.js.LICENSE.txt": "/auto-mockup/static/js/2.ffc0389e.chunk.js.LICENSE.txt",
+    "static/css/main.d6fad067.chunk.css.map": "/auto-mockup/static/css/main.d6fad067.chunk.css.map",
+    "static/js/2.f1132c8a.chunk.js.LICENSE.txt": "/auto-mockup/static/js/2.f1132c8a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/auto-mockup/static/media/img2.99cf8f5e.jpg",
     "static/media/tire2.jpeg": "/auto-mockup/static/media/tire2.ae4da8a5.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c5f8936.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.ffc0389e.chunk.js",
-    "static/css/main.dfeea9da.chunk.css",
-    "static/js/main.ea975f8e.chunk.js"
+    "static/js/2.f1132c8a.chunk.js",
+    "static/css/main.d6fad067.chunk.css",
+    "static/js/main.4b859830.chunk.js"
   ]
 }
